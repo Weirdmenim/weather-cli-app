@@ -3,7 +3,7 @@ from colorama import init, Fore, Style
 
 init(autoreset=True)
 
-API_KEY = '5ab083246e7821637e5df08f51c89d43'  
+API_KEY = 'put your API key here'  
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
 
 def get_weather(city):
